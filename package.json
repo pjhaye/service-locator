@@ -1,0 +1,15 @@
+{
+  "name": "com.pjvideogames.servicelocator",
+  "version": "0.0.1",
+  "displayName": "Service Locator",
+  "description": "Super basic Service Locator implementation",
+  "unity": "2021.1",
+  "keywords": [
+    "servicelocator"    
+  ],
+  "author": {
+    "name": "PJ Haye",
+    "email": "pj.haye@gmail.com"
+  },
+  "type": "module"
+}
