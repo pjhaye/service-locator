@@ -1,5 +1,5 @@
 {
-    "name": "pjvideogames.servicelocator.runtime",
+    "name": "PjVIdeoGames.ServiceLocator",
     "rootNamespace": "ServiceLocator",
     "references": [],
     "includePlatforms": [],
